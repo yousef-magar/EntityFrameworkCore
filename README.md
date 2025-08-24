@@ -1,4 +1,4 @@
-# 🧠 Entity Framework Core Guide (English + Arabic)
+# 🧠 Entity Framework Core Guide 
 
 This guide explains how to use **Entity Framework Core** to connect your C# app with a database, step-by-step.
 
